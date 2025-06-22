@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ecommerce React App
 
 This is a simple ecommerce item management app built with React and Vite.
@@ -28,3 +29,6 @@ This is a simple ecommerce item management app built with React and Vite.
 ---
 
 This project uses Vite and React. For more info on Vite, see the [Vite documentation](https://vitejs.dev/).
+=======
+# e-commerce
+>>>>>>> 18daa142064fe3835ffc7ac3da387d8071476c75
